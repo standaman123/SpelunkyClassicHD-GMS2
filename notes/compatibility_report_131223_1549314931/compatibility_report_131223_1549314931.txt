@@ -1,0 +1,1270 @@
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\gameStepEvent\gameStepEvent.gml
+Converted builtin - line 243: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 243: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 244: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 244: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 243: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 244: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\scrCreateTile\scrCreateTile.gml
+String not found: ConversionLog_ConvertedString 379 "\" "\\"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\scrCreateTileObj\scrCreateTileObj.gml
+String not found: ConversionLog_ConvertedString 405 "\" "\\"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\scrSetCursorTile\scrSetCursorTile.gml
+String not found: ConversionLog_ConvertedString 100 "\" "\\"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\scrInitLevel\scrInitLevel.gml
+Converted builtin - line 141: background_index = bgTemple -> __background_set( e__BG.Index, 0, bgTemple )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\scrShake\scrShake.gml
+Converted builtin - line 9: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\checkJoyButton\checkJoyButton.gml
+Converted description /// @description checkJoyButton()
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\checkJump\checkJump.gml
+String not found: ConversionLog_ConvertedString 6 'J' "J"
+String not found: ConversionLog_ConvertedString 14 'J' "J"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\checkJumpPressed\checkJumpPressed.gml
+String not found: ConversionLog_ConvertedString 4 'J' "J"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\checkJumpReleased\checkJumpReleased.gml
+String not found: ConversionLog_ConvertedString 4 'J' "J"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\getPlatform\getPlatform.gml
+Converted description /// @description getPlatform
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\enableTouchInput\enableTouchInput.gml
+String not found: ConversionLog_ConvertedString 28 'J' "J"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\scrNotTrigger\scrNotTrigger.gml
+Converted description /// @description scrNotTrigger(button)/// @param button
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\drawTouchControls\drawTouchControls.gml
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description drawTouchControls
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\scrDrawHUD\scrDrawHUD.gml
+Converted builtin - line 38: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 64: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 69: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 76: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 77: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 80: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 85: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 39: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 62: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 82: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 83: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 87: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 88: view_yview[0] -> __view_get( e__VW.YView, 0 )
+String not found: ConversionLog_ConvertedString 49 'large' "large"
+String not found: ConversionLog_ConvertedString 52 'large' "large"
+String not found: ConversionLog_ConvertedString 54 'large' "large"
+String not found: ConversionLog_ConvertedString 56 'large' "large"
+String not found: ConversionLog_ConvertedString 195 'small' "small"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\gmitf\gmitf.gml
+Converted description /// @description GameMaker Intro time fix
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\showFinalScore\showFinalScore.gml
+Converted description /// @description showFinalScore(drawStatus, fadeOut)/// @param drawStatus
+/// @param  fadeOut
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\drawText\drawText.gml
+Converted description /// @description drawText(text, fontSize, color, posX, posY)/// @param text
+/// @param  fontSize
+/// @param  color
+/// @param  posX
+/// @param  posY
+String not found: ConversionLog_ConvertedString 14 'small' "small"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\drawTextHCentered\drawTextHCentered.gml
+Converted description /// @description drawTextHCentered(text, fontSize, color, offsetX, posY)/// @param text
+/// @param  fontSize
+/// @param  color
+/// @param  offsetX
+/// @param  posY
+String not found: ConversionLog_ConvertedString 14 'small' "small"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\drawHighlightedMessage\drawHighlightedMessage.gml
+Converted description /// @description drawHighlightedMessage (message, offsetX, posY, messageN)/// @param message
+/// @param  offsetX
+/// @param  posY
+/// @param  messageN
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\drawMessage\drawMessage.gml
+Converted description /// @description drawMessage (text, fontSize, color, offsetX, posY, messageN)/// @param text
+/// @param  fontSize
+/// @param  color
+/// @param  offsetX
+/// @param  posY
+/// @param  messageN
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\showMessages\showMessages.gml
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 14: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description showMessages
+String not found: ConversionLog_ConvertedString 9 'small' "small"
+String not found: ConversionLog_ConvertedString 14 'small' "small"
+String not found: ConversionLog_ConvertedString 22 'small' "small"
+String not found: ConversionLog_ConvertedString 27 'small' "small"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\menuDie\menuDie.gml
+Converted description /// @description menuDie
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\getLocales\getLocales.gml
+Converted description /// @description getLocales
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\changeLocale\changeLocale.gml
+Converted description /// @description changeLocale
+String not found: ConversionLog_ConvertedString 15 '' ""
+String not found: ConversionLog_ConvertedString 16 '' ""
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\loadLocalizedSprites\loadLocalizedSprites.gml
+Converted description /// @description loadLocalizedSprites
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\setLocale\setLocale.gml
+Converted description /// @description setLocale
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\tr\tr.gml
+Converted description /// @description tr(key)/// @param key
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\json2dsmap\json2dsmap.gml
+Converted description /// @description json2dsmap(filepath)/// @param filepath
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\dsmap2json\dsmap2json.gml
+Converted description /// @description dsmap2json(map, filepath)/// @param map
+/// @param  filepath
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\configLoad\configLoad.gml
+Converted description /// @description configLoad
+String not found: ConversionLog_ConvertedString 8 'Z' "Z"
+String not found: ConversionLog_ConvertedString 9 'X' "X"
+String not found: ConversionLog_ConvertedString 10 'C' "C"
+String not found: ConversionLog_ConvertedString 12 'A' "A"
+String not found: ConversionLog_ConvertedString 13 'S' "S"
+String not found: ConversionLog_ConvertedString 14 'F' "F"
+String not found: ConversionLog_ConvertedString 15 'P' "P"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\configSave\configSave.gml
+Converted description /// @description configSave
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\keysSave\keysSave.gml
+Converted description /// @description keysSave
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\joySave\joySave.gml
+Converted description /// @description joySave
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\menuTouchControls\menuTouchControls.gml
+Converted description /// @description menuTouchControls
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\menuToggleFullscreen\menuToggleFullscreen.gml
+Converted description /// @description menuToggleFullscreen
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\menuLanguage\menuLanguage.gml
+Converted description /// @description menuLanguage
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\quitGame\quitGame.gml
+Converted description /// @description quitGame
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\toggleMusic\toggleMusic.gml
+Converted description /// @description toggleMusic
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\scripts\onOffMusic\onOffMusic.gml
+Converted description /// @description onOffMusic
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oEnemy\Step_0.gml
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oItem\Create_0.gml
+ERROR: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oItem\Create_0.gml - 5: unexpected syntax error
+ERROR: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oItem\Create_0.gml - 5: malformed variable reference got new
+ERROR: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oItem\Create_0.gml - 5: unexpected terminal operator new
+Too many errors - GML not processed : C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oItem\Create_0.gml
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oItem\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oTreasure\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oDetritus\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oRubblePiece\Step_0.gml
+Converted builtin - line 23: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 24: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 25: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 26: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 24: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 26: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oBat\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oScarab\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oSnake\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oSpider\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oSpiderHang\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oGiantSpiderHang\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oGiantSpider\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oSkeleton\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oFrog\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oFireFrog\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oZombie\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oVampire\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oJaws\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oDeadFish\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oManTrap\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oMonkey\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oYetiKing\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oUFO\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oAlienEject\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oAlien\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oAlienBoss\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oBarrierEmitter\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oHawkman\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oTombLord\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oOlmec\Create_0.gml
+Converted builtin - line 39: view_yview[0] = 400 -> __view_set( e__VW.YView, 0, 400 )
+Converted builtin - line 37: view_hborder[0] = 0 -> __view_set( e__VW.HBorder, 0, 0 )
+Converted builtin - line 38: view_vborder[0] = 0 -> __view_set( e__VW.VBorder, 0, 0 )
+Converted builtin - line 40: view_object[0] = oOlmec -> __view_set( e__VW.Object, 0, oOlmec )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oOlmec\Alarm_5.gml
+Converted builtin - line 3: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 1: view_hborder[0] = global.display_w/2 -> __view_set( e__VW.HBorder, 0, global.display_w/2 )
+Converted builtin - line 2: view_vborder[0] = 64 -> __view_set( e__VW.VBorder, 0, 64 )
+Converted builtin - line 4: view_object[0] = oPlayer1 -> __view_set( e__VW.Object, 0, oPlayer1 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oOlmec\Step_0.gml
+Converted builtin - line 52: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 52: view_xview[0] += 2 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + (2) )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oDice\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oGoldIdol\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oEntrance\Draw_0.gml
+String not found: ConversionLog_ConvertedString 3 'small' "small"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oExit\Draw_0.gml
+String not found: ConversionLog_ConvertedString 3 'small' "small"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oMsgSign\Draw_64.gml
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 1: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oTree\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oLeaves\Step_0.gml
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 11: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oTreeBranch\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oGrave\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oSacAltarLeft\Destroy_0.gml
+Converted builtin - line 53: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 54: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 53: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 54: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 53: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 53: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 54: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oSacAltarLeft\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oFakeBones\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oExplosion\Collision_1b80f4b6-6654-47c4-9141-0cbad6ae9a9e.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oSpearTrapTop\Step_0.gml
+Converted builtin - line 79: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 79: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 80: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 80: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 79: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 80: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oSpearTrapBottom\Step_0.gml
+Converted builtin - line 79: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 79: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 80: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 80: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 79: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 80: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oSmashTrap\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oSmashTrapLit\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oSpringTrap\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oBatIntro\Step_0.gml
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oIntroBG\Step_0.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oMoon\Step_0.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oBGEnd3\Step_0.gml
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oHintHand\Draw_0.gml
+String not found: ConversionLog_ConvertedString 3 'small' "small"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oShopkeeper\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oEditButton\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oTestButton\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oNewButton\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oGameMakerLogo\Draw_0.gml
+Converted builtin - line 1: background_xscale[0]=room_width/960 -> __background_set( e__BG.XScale, 0, room_width/960 )
+Converted builtin - line 2: background_yscale[0]=room_height/720 -> __background_set( e__BG.YScale, 0, room_height/720 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oGamepad\Step_0.gml
+Converted description /// @description Do gamepad stuff.
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oGamepad\Other_75.gml
+Converted description /// @description Detect new gamepads.
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oScreen\Create_0.gml
+Converted builtin - line 95: view_wview[0] = w -> __view_set( e__VW.WView, 0, w )
+Converted builtin - line 97: view_hview[0] = h -> __view_set( e__VW.HView, 0, h )
+Converted builtin - line 96: view_wport[0] = w -> __view_set( e__VW.WPort, 0, w )
+Converted builtin - line 98: view_hport[0] = h -> __view_set( e__VW.HPort, 0, h )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oScreen\Step_1.gml
+Converted builtin - line 121: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 124: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 128: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 132: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 136: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 140: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 144: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 148: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 152: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 156: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 160: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 164: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 168: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 172: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 176: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 121: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 124: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 128: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 132: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 136: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 140: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 144: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 148: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 152: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 156: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 160: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 164: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 168: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 172: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 176: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description NEW
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oScreenLast\Step_0.gml
+Converted builtin - line 84: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 87: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 91: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 95: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 99: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 103: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 107: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 111: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 115: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 119: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 123: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 127: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 131: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 135: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 139: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 84: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 87: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 91: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 95: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 99: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 103: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 107: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 111: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 115: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 119: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 123: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 127: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 131: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 135: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 139: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oGame\Create_0.gml
+Converted description /// @description  Create Game
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oGame\Alarm_4.gml
+Converted description /// @description Gamepad in HTML5
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oGame\Alarm_3.gml
+Converted description /// @description Left analog stick in the menu
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oGame\Step_0.gml
+Converted builtin - line 42: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 43: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 42: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 43: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 42: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 42: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 43: view_hview[0] -> __view_get( e__VW.HView, 0 )
+String not found: ConversionLog_ConvertedString 268 'J' "J"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oGame\Other_3.gml
+Converted description /// @description saveStats
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oGame\Draw_64.gml
+Converted description /// @description  Pause menu
+String not found: ConversionLog_ConvertedString 44 'MUSIC' "MUSIC"
+String not found: ConversionLog_ConvertedString 44 ' <' " <"
+String not found: ConversionLog_ConvertedString 44 '>' ">"
+String not found: ConversionLog_ConvertedString 44 'small' "small"
+String not found: ConversionLog_ConvertedString 45 'KEYBOARD CONFIGURATION' "KEYBOARD CONFIGURATION"
+String not found: ConversionLog_ConvertedString 45 'small' "small"
+String not found: ConversionLog_ConvertedString 46 'GAMEPAD' "GAMEPAD"
+String not found: ConversionLog_ConvertedString 46 ' <' " <"
+String not found: ConversionLog_ConvertedString 46 '>' ">"
+String not found: ConversionLog_ConvertedString 46 'small' "small"
+String not found: ConversionLog_ConvertedString 47 'GAMEPAD CONFIGURATION' "GAMEPAD CONFIGURATION"
+String not found: ConversionLog_ConvertedString 47 'small' "small"
+String not found: ConversionLog_ConvertedString 48 'TOUCH CONTROLS VISIBILITY' "TOUCH CONTROLS VISIBILITY"
+String not found: ConversionLog_ConvertedString 48 ' <' " <"
+String not found: ConversionLog_ConvertedString 48 '>' ">"
+String not found: ConversionLog_ConvertedString 48 'small' "small"
+String not found: ConversionLog_ConvertedString 49 'TOGGLEABLE RUN BUTTON' "TOGGLEABLE RUN BUTTON"
+String not found: ConversionLog_ConvertedString 49 ' <' " <"
+String not found: ConversionLog_ConvertedString 49 '>' ">"
+String not found: ConversionLog_ConvertedString 49 'small' "small"
+String not found: ConversionLog_ConvertedString 51 'LANGUAGE' "LANGUAGE"
+String not found: ConversionLog_ConvertedString 51 ' <' " <"
+String not found: ConversionLog_ConvertedString 51 '>' ">"
+String not found: ConversionLog_ConvertedString 51 'small' "small"
+String not found: ConversionLog_ConvertedString 52 'RESTART' "RESTART"
+String not found: ConversionLog_ConvertedString 52 'small' "small"
+String not found: ConversionLog_ConvertedString 54 'TOGGLE FULLSCREEN' "TOGGLE FULLSCREEN"
+String not found: ConversionLog_ConvertedString 54 'small' "small"
+String not found: ConversionLog_ConvertedString 55 'LANGUAGE' "LANGUAGE"
+String not found: ConversionLog_ConvertedString 55 ' <' " <"
+String not found: ConversionLog_ConvertedString 55 '>' ">"
+String not found: ConversionLog_ConvertedString 55 'small' "small"
+String not found: ConversionLog_ConvertedString 56 'RESTART' "RESTART"
+String not found: ConversionLog_ConvertedString 56 'small' "small"
+String not found: ConversionLog_ConvertedString 59 'FULLSCREEN' "FULLSCREEN"
+String not found: ConversionLog_ConvertedString 59 ' <' " <"
+String not found: ConversionLog_ConvertedString 59 '>' ">"
+String not found: ConversionLog_ConvertedString 59 'small' "small"
+String not found: ConversionLog_ConvertedString 60 'LANGUAGE' "LANGUAGE"
+String not found: ConversionLog_ConvertedString 60 ' <' " <"
+String not found: ConversionLog_ConvertedString 60 '>' ">"
+String not found: ConversionLog_ConvertedString 60 'small' "small"
+String not found: ConversionLog_ConvertedString 61 'QUIT' "QUIT"
+String not found: ConversionLog_ConvertedString 61 'small' "small"
+String not found: ConversionLog_ConvertedString 64 'MUSIC' "MUSIC"
+String not found: ConversionLog_ConvertedString 64 ' <' " <"
+String not found: ConversionLog_ConvertedString 64 '>' ">"
+String not found: ConversionLog_ConvertedString 64 'small' "small"
+String not found: ConversionLog_ConvertedString 65 'KEYBOARD CONFIGURATION' "KEYBOARD CONFIGURATION"
+String not found: ConversionLog_ConvertedString 65 'small' "small"
+String not found: ConversionLog_ConvertedString 66 'GAMEPAD CONFIGURATION' "GAMEPAD CONFIGURATION"
+String not found: ConversionLog_ConvertedString 66 'small' "small"
+String not found: ConversionLog_ConvertedString 67 'TOGGLEABLE RUN BUTTON' "TOGGLEABLE RUN BUTTON"
+String not found: ConversionLog_ConvertedString 67 ' <' " <"
+String not found: ConversionLog_ConvertedString 67 '>' ">"
+String not found: ConversionLog_ConvertedString 67 'small' "small"
+String not found: ConversionLog_ConvertedString 69 'TOUCH CONTROLS VISIBILITY' "TOUCH CONTROLS VISIBILITY"
+String not found: ConversionLog_ConvertedString 69 ' <' " <"
+String not found: ConversionLog_ConvertedString 69 '>' ">"
+String not found: ConversionLog_ConvertedString 69 'small' "small"
+String not found: ConversionLog_ConvertedString 70 'LANGUAGE' "LANGUAGE"
+String not found: ConversionLog_ConvertedString 70 ' <' " <"
+String not found: ConversionLog_ConvertedString 70 '>' ">"
+String not found: ConversionLog_ConvertedString 70 'small' "small"
+String not found: ConversionLog_ConvertedString 71 'RESTART' "RESTART"
+String not found: ConversionLog_ConvertedString 71 'small' "small"
+String not found: ConversionLog_ConvertedString 73 'FULLSCREEN' "FULLSCREEN"
+String not found: ConversionLog_ConvertedString 73 ' <' " <"
+String not found: ConversionLog_ConvertedString 73 '>' ">"
+String not found: ConversionLog_ConvertedString 73 'small' "small"
+String not found: ConversionLog_ConvertedString 74 'LANGUAGE' "LANGUAGE"
+String not found: ConversionLog_ConvertedString 74 ' <' " <"
+String not found: ConversionLog_ConvertedString 74 '>' ">"
+String not found: ConversionLog_ConvertedString 74 'small' "small"
+String not found: ConversionLog_ConvertedString 75 'QUIT' "QUIT"
+String not found: ConversionLog_ConvertedString 75 'small' "small"
+String not found: ConversionLog_ConvertedString 80 'MUSIC' "MUSIC"
+String not found: ConversionLog_ConvertedString 80 ' <' " <"
+String not found: ConversionLog_ConvertedString 80 '>' ">"
+String not found: ConversionLog_ConvertedString 80 'small' "small"
+String not found: ConversionLog_ConvertedString 81 'TOUCH CONTROLS VISIBILITY' "TOUCH CONTROLS VISIBILITY"
+String not found: ConversionLog_ConvertedString 81 ' <' " <"
+String not found: ConversionLog_ConvertedString 81 '>' ">"
+String not found: ConversionLog_ConvertedString 81 'small' "small"
+String not found: ConversionLog_ConvertedString 82 'TOGGLEABLE RUN BUTTON' "TOGGLEABLE RUN BUTTON"
+String not found: ConversionLog_ConvertedString 82 ' <' " <"
+String not found: ConversionLog_ConvertedString 82 '>' ">"
+String not found: ConversionLog_ConvertedString 82 'small' "small"
+String not found: ConversionLog_ConvertedString 84 'LANGUAGE' "LANGUAGE"
+String not found: ConversionLog_ConvertedString 84 ' <' " <"
+String not found: ConversionLog_ConvertedString 84 '>' ">"
+String not found: ConversionLog_ConvertedString 84 'small' "small"
+String not found: ConversionLog_ConvertedString 85 'DIE!' "DIE!"
+String not found: ConversionLog_ConvertedString 85 'small' "small"
+String not found: ConversionLog_ConvertedString 86 'RESTART' "RESTART"
+String not found: ConversionLog_ConvertedString 86 'small' "small"
+String not found: ConversionLog_ConvertedString 88 'TOGGLE FULLSCREEN' "TOGGLE FULLSCREEN"
+String not found: ConversionLog_ConvertedString 88 'small' "small"
+String not found: ConversionLog_ConvertedString 89 'LANGUAGE' "LANGUAGE"
+String not found: ConversionLog_ConvertedString 89 ' <' " <"
+String not found: ConversionLog_ConvertedString 89 '>' ">"
+String not found: ConversionLog_ConvertedString 89 'small' "small"
+String not found: ConversionLog_ConvertedString 90 'DIE!' "DIE!"
+String not found: ConversionLog_ConvertedString 90 'small' "small"
+String not found: ConversionLog_ConvertedString 91 'RESTART' "RESTART"
+String not found: ConversionLog_ConvertedString 91 'small' "small"
+String not found: ConversionLog_ConvertedString 94 'FULLSCREEN' "FULLSCREEN"
+String not found: ConversionLog_ConvertedString 94 ' <' " <"
+String not found: ConversionLog_ConvertedString 94 '>' ">"
+String not found: ConversionLog_ConvertedString 94 'small' "small"
+String not found: ConversionLog_ConvertedString 95 'LANGUAGE' "LANGUAGE"
+String not found: ConversionLog_ConvertedString 95 ' <' " <"
+String not found: ConversionLog_ConvertedString 95 '>' ">"
+String not found: ConversionLog_ConvertedString 95 'small' "small"
+String not found: ConversionLog_ConvertedString 96 'DIE!' "DIE!"
+String not found: ConversionLog_ConvertedString 96 'small' "small"
+String not found: ConversionLog_ConvertedString 97 'QUIT' "QUIT"
+String not found: ConversionLog_ConvertedString 97 'small' "small"
+String not found: ConversionLog_ConvertedString 100 'MUSIC' "MUSIC"
+String not found: ConversionLog_ConvertedString 100 ' <' " <"
+String not found: ConversionLog_ConvertedString 100 '>' ">"
+String not found: ConversionLog_ConvertedString 100 'small' "small"
+String not found: ConversionLog_ConvertedString 101 'TOGGLEABLE RUN BUTTON' "TOGGLEABLE RUN BUTTON"
+String not found: ConversionLog_ConvertedString 101 ' <' " <"
+String not found: ConversionLog_ConvertedString 101 '>' ">"
+String not found: ConversionLog_ConvertedString 101 'small' "small"
+String not found: ConversionLog_ConvertedString 103 'TOUCH CONTROLS VISIBILITY' "TOUCH CONTROLS VISIBILITY"
+String not found: ConversionLog_ConvertedString 103 ' <' " <"
+String not found: ConversionLog_ConvertedString 103 '>' ">"
+String not found: ConversionLog_ConvertedString 103 'small' "small"
+String not found: ConversionLog_ConvertedString 104 'LANGUAGE' "LANGUAGE"
+String not found: ConversionLog_ConvertedString 104 ' <' " <"
+String not found: ConversionLog_ConvertedString 104 '>' ">"
+String not found: ConversionLog_ConvertedString 104 'small' "small"
+String not found: ConversionLog_ConvertedString 105 'DIE!' "DIE!"
+String not found: ConversionLog_ConvertedString 105 'small' "small"
+String not found: ConversionLog_ConvertedString 106 'RESTART' "RESTART"
+String not found: ConversionLog_ConvertedString 106 'small' "small"
+String not found: ConversionLog_ConvertedString 108 'FULLSCREEN' "FULLSCREEN"
+String not found: ConversionLog_ConvertedString 108 ' <' " <"
+String not found: ConversionLog_ConvertedString 108 '>' ">"
+String not found: ConversionLog_ConvertedString 108 'small' "small"
+String not found: ConversionLog_ConvertedString 109 'LANGUAGE' "LANGUAGE"
+String not found: ConversionLog_ConvertedString 109 ' <' " <"
+String not found: ConversionLog_ConvertedString 109 '>' ">"
+String not found: ConversionLog_ConvertedString 109 'small' "small"
+String not found: ConversionLog_ConvertedString 110 'DIE!' "DIE!"
+String not found: ConversionLog_ConvertedString 110 'small' "small"
+String not found: ConversionLog_ConvertedString 111 'QUIT' "QUIT"
+String not found: ConversionLog_ConvertedString 111 'small' "small"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oGame\Draw_0.gml
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 13: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 30: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 36: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 44: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 50: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 59: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 65: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 73: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 79: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 13: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 30: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 36: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 44: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 50: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 59: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 65: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 73: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 79: view_yview[0] -> __view_get( e__VW.YView, 0 )
+String not found: ConversionLog_ConvertedString 9 'large' "large"
+String not found: ConversionLog_ConvertedString 13 'small' "small"
+String not found: ConversionLog_ConvertedString 17 'large' "large"
+String not found: ConversionLog_ConvertedString 30 'small' "small"
+String not found: ConversionLog_ConvertedString 36 'small' "small"
+String not found: ConversionLog_ConvertedString 44 'large' "large"
+String not found: ConversionLog_ConvertedString 50 'small' "small"
+String not found: ConversionLog_ConvertedString 59 'large' "large"
+String not found: ConversionLog_ConvertedString 65 'small' "small"
+String not found: ConversionLog_ConvertedString 73 'large' "large"
+String not found: ConversionLog_ConvertedString 79 'small' "small"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oHighscores\Step_0.gml
+Converted builtin - line 10: view_xview[0] = -global.room_offset -> __view_set( e__VW.XView, 0, -global.room_offset )
+Converted builtin - line 17: view_xview[0] = -global.room_offset -> __view_set( e__VW.XView, 0, -global.room_offset )
+Converted builtin - line 9: view_yview[0] = 0 + rand(1,8) -> __view_set( e__VW.YView, 0, 0 + rand(1,8) )
+Converted builtin - line 18: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oSunRoom\Draw_0.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oMoonRoom\Draw_0.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oStarsRoom\Draw_0.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oLevel\Step_0.gml
+Converted builtin - line 70: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 70: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 77: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 14: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 70: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 70: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 77: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_yview += 3 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + (3) )
+Converted builtin - line 21: view_yview -= 3 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) - (3) )
+Converted builtin - line 70: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 77: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 19: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 70: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 77: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 12: view_vborder[0] = 0 -> __view_set( e__VW.VBorder, 0, 0 )
+Converted builtin - line 13: view_vborder[0] = 96 -> __view_set( e__VW.VBorder, 0, 96 )
+Converted builtin - line 28: view_vborder[0] = 96 -> __view_set( e__VW.VBorder, 0, 96 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oLevel\Draw_0.gml
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oLevelEditor\Create_0.gml
+String not found: ConversionLog_ConvertedString 135 "\" "\\"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oLevelEditor\Step_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] += 4 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + (4) )
+Converted builtin - line 8: view_xview[0] -= 4 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) - (4) )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview[0] += 4 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + (4) )
+Converted builtin - line 11: view_yview[0] -= 4 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) - (4) )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oLevelEditor\Draw_0.gml
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 11: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 24: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 28: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 32: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 36: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 40: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 44: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 51: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 60: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 69: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 77: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 78: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 82: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 83: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 15: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 24: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 28: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 32: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 36: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 40: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 44: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 51: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 60: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 69: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 75: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 77: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 78: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 82: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 83: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 77: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 78: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oLevelEditor\KeyPress_1.gml
+String not found: ConversionLog_ConvertedString 127 'E' "E"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oCursObj\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oLoadLevel\Draw_0.gml
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 13: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 22: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 13: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 15: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 22: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oTransition\Create_0.gml
+Converted description /// @description Gamepad in HTML5
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oTransition\Alarm_3.gml
+Converted description /// @description Gamepad in HTML5
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oTransition\Step_0.gml
+Converted description /// @description Gamepad in HTML5
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oTransition\Draw_64.gml
+Converted description /// @description Draw touch controls
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oTransition\Draw_0.gml
+Converted description /// @description Draw touch controls (HTML5)/// @param HTML5
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oEnd\Alarm_0.gml
+Converted description /// @description Gamepad in HTML5
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oEnd\Step_0.gml
+Converted builtin - line 79: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 79: view_xview[0] += 1 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + (1) )
+Converted builtin - line 69: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 70: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 76: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted description /// @description Gamepad in HTML5
+Converted builtin - line 69: view_yview[0] = __view_get( e__VW.YView, 0 ) + rand(1,8) -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + rand(1,8) )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oEnd3\Alarm_6.gml
+Converted description /// @description Gamepad in HTML5
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oEnd3\Step_0.gml
+Converted description /// @description Gamepad in HTML5
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oEnd3\Draw_64.gml
+Converted description /// @description Draw touch controls
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oEnd3\Draw_0.gml
+Converted description /// @description Draw touch controls (HTML5)/// @param HTML5
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oEndCustom\Alarm_6.gml
+Converted description /// @description Gamepad in HTML5
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oEndCustom\Step_0.gml
+Converted description /// @description Gamepad in HTML5
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oEndCustom\Draw_64.gml
+Converted description /// @description Draw touch controls
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oEndCustom\Draw_0.gml
+Converted description /// @description Draw touch controls (HTML5)/// @param HTML5
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oIntro\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+String not found: ConversionLog_ConvertedString 9 'small' "small"
+String not found: ConversionLog_ConvertedString 12 'small' "small"
+String not found: ConversionLog_ConvertedString 15 'small' "small"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oTitle\Create_0.gml
+Converted builtin - line 26: view_xview[0] = 320 - global.room_offset -> __view_set( e__VW.XView, 0, 320 - global.room_offset )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oTitle\Step_0.gml
+Converted builtin - line 25: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 30: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 27: view_xview[0] -= 8 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) - (8) )
+Converted builtin - line 32: view_xview[0] += 8 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + (8) )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oTitle\Draw_0.gml
+Converted builtin - line 12: view_xview[0] -> __view_get( e__VW.XView, 0 )
+String not found: ConversionLog_ConvertedString 13 'small' "small"
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oPlayer1\Step_0.gml
+Converted builtin - line 1234: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1235: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1234: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1235: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 389: view_yview[0] += 4 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + (4) )
+Converted builtin - line 394: view_yview[0] -= 4 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) - (4) )
+Converted builtin - line 1234: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 1234: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 1235: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oPressStart\Create_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oPressStart\Draw_0.gml
+Converted builtin - line 16: view_wview[0] -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\yyScreen\Step_1.gml
+Converted builtin - line 1: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 8: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 1: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted builtin - line 9: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted builtin - line 12: view_surface_id[0] = surf -> __view_set( e__VW.SurfaceID, 0, surf )
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\yyScreen\Draw_0.gml
+Converted description /// @description  empty
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oDebug\Step_0.gml
+Converted description /// @description  Debug script
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oHtml5Gamepad\Create_0.gml
+Converted description /// @description Gamepad in HTML5
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oHtml5Gamepad\Alarm_0.gml
+Converted description /// @description Gamepad in HTML5
+
+Converting GML script: C:\Users\fandy_we7lkfx\Documents\GameMakerStudio2\SpelunkyClassicHD\conv\gmx\SpelunkyClassicHD_195B6440\objects\oHtml5Gamepad\Step_0.gml
+Converted description /// @description Gamepad in HTML5
+
+Missing audiogroup for sound: 'mBoss' - setting to default audio group
+Missing audiogroup for sound: 'mCave' - setting to default audio group
+Missing audiogroup for sound: 'mCredits' - setting to default audio group
+Missing audiogroup for sound: 'mIce' - setting to default audio group
+Missing audiogroup for sound: 'mLush' - setting to default audio group
+Missing audiogroup for sound: 'mTemple' - setting to default audio group
+Missing audiogroup for sound: 'mVictory' - setting to default audio group
+Missing audiogroup for sound: 'mTitle' - setting to default audio group
+Missing audiogroup for sound: 'xalien' - setting to default audio group
+Missing audiogroup for sound: 'xarrowtrap' - setting to default audio group
+Missing audiogroup for sound: 'xbat' - setting to default audio group
+Missing audiogroup for sound: 'xbigjump' - setting to default audio group
+Missing audiogroup for sound: 'xblink1' - setting to default audio group
+Missing audiogroup for sound: 'xblink2' - setting to default audio group
+Missing audiogroup for sound: 'xboing' - setting to default audio group
+Missing audiogroup for sound: 'xbombready' - setting to default audio group
+Missing audiogroup for sound: 'xbowpull' - setting to default audio group
+Missing audiogroup for sound: 'xbreak' - setting to default audio group
+Missing audiogroup for sound: 'xcavemandie' - setting to default audio group
+Missing audiogroup for sound: 'xchestopen' - setting to default audio group
+Missing audiogroup for sound: 'xclick' - setting to default audio group
+Missing audiogroup for sound: 'xclimb1' - setting to default audio group
+Missing audiogroup for sound: 'xclimb2' - setting to default audio group
+Missing audiogroup for sound: 'xcoin' - setting to default audio group
+Missing audiogroup for sound: 'xcrunch' - setting to default audio group
+Missing audiogroup for sound: 'xdamsel' - setting to default audio group
+Missing audiogroup for sound: 'xdie' - setting to default audio group
+Missing audiogroup for sound: 'xexplosion' - setting to default audio group
+Missing audiogroup for sound: 'xflame' - setting to default audio group
+Missing audiogroup for sound: 'xfrog' - setting to default audio group
+Missing audiogroup for sound: 'xgem' - setting to default audio group
+Missing audiogroup for sound: 'xghost' - setting to default audio group
+Missing audiogroup for sound: 'xgiantspider' - setting to default audio group
+Missing audiogroup for sound: 'xgspiderjump' - setting to default audio group
+Missing audiogroup for sound: 'xhit' - setting to default audio group
+Missing audiogroup for sound: 'xhurt' - setting to default audio group
+Missing audiogroup for sound: 'xignite' - setting to default audio group
+Missing audiogroup for sound: 'xjetpack' - setting to default audio group
+Missing audiogroup for sound: 'xjump' - setting to default audio group
+Missing audiogroup for sound: 'xkiss' - setting to default audio group
+Missing audiogroup for sound: 'xland' - setting to default audio group
+Missing audiogroup for sound: 'xlaser' - setting to default audio group
+Missing audiogroup for sound: 'xlasercharge' - setting to default audio group
+Missing audiogroup for sound: 'xletsexplore' - setting to default audio group
+Missing audiogroup for sound: 'xmattockbreak' - setting to default audio group
+Missing audiogroup for sound: 'xmonkey' - setting to default audio group
+Missing audiogroup for sound: 'xpause' - setting to default audio group
+Missing audiogroup for sound: 'xpfall' - setting to default audio group
+Missing audiogroup for sound: 'xpickup' - setting to default audio group
+Missing audiogroup for sound: 'xpsychic' - setting to default audio group
+Missing audiogroup for sound: 'xpush' - setting to default audio group
+Missing audiogroup for sound: 'xshotgun' - setting to default audio group
+Missing audiogroup for sound: 'xslam' - setting to default audio group
+Missing audiogroup for sound: 'xsmallexplode' - setting to default audio group
+Missing audiogroup for sound: 'xspiderjump' - setting to default audio group
+Missing audiogroup for sound: 'xsplash' - setting to default audio group
+Missing audiogroup for sound: 'xsteps' - setting to default audio group
+Missing audiogroup for sound: 'xteleport' - setting to default audio group
+Missing audiogroup for sound: 'xtfall' - setting to default audio group
+Missing audiogroup for sound: 'xthrow' - setting to default audio group
+Missing audiogroup for sound: 'xthud' - setting to default audio group
+Missing audiogroup for sound: 'xthump' - setting to default audio group
+Missing audiogroup for sound: 'xtrap' - setting to default audio group
+Missing audiogroup for sound: 'xwhip' - setting to default audio group
+Missing audiogroup for sound: 'xyetiyell' - setting to default audio group
+Missing audiogroup for sound: 'xzombie' - setting to default audio group
+Missing audiogroup for sound: 'xalert' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action\action_color.gml'
+Added compatibility script 'action\action_inherited.gml'
+Added compatibility script 'action\action_kill_object.gml'
+Added compatibility script 'action\action_linear_step.gml'
+Added compatibility script 'action\action_move_to.gml'
+Added compatibility script 'action\action_path.gml'
+Added compatibility script 'action\action_reverse_xdir.gml'
+Added compatibility script 'background\draw_background_stretched.gml'
+Added compatibility script 'background\__background_set.gml'
+Added compatibility script 'background\__background_set_internal.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'sound\sound_global_volume.gml'
+Added compatibility script 'sound\sound_play.gml'
+Added compatibility script 'sound\sound_stop_all.gml'
+Added compatibility script 'sound\sound_volume.gml'
+Added compatibility script 'tile\tile_add.gml'
+Added compatibility script 'tile\tile_delete.gml'
+Added compatibility script 'tile\tile_layer_find.gml'
+Added compatibility script 'view\room_set_view.gml'
+Added compatibility script 'view\__view_get.gml'
+Added compatibility script 'view\__view_set.gml'
+Added compatibility script 'view\__view_set_internal.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script 'background\__init_background.gml'
+Added compatibility script 'view\__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background\__background_get_element.gml'
+Added compatibility script 'background\__background_get_internal.gml'
+Added compatibility script 'background\__background_set_element.gml'
+Added compatibility script '__global_object_depths.gml'
