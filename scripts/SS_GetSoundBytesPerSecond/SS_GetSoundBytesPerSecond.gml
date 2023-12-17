@@ -9,6 +9,7 @@ function SS_GetSoundBytesPerSecond(argument0) {
 	/*
 	return: 0 as real if unsuccessful, BPS as real if successful
 	*/
+	
 
 	if is_real(argument0) then return 0;
 	return real(external_call(global.dll_SS_GetSoundBytesPerSecond, argument0));
