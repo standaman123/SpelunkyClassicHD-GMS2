@@ -744,7 +744,6 @@
     {"id":{"name":"sDeathMaskPickup","path":"sprites/sDeathMaskPickup/sDeathMaskPickup.yy",},},
     {"id":{"name":"sKapala","path":"sprites/sKapala/sKapala.yy",},},
     {"id":{"name":"sDeathMaskWear","path":"sprites/sDeathMaskWear/sDeathMaskWear.yy",},},
-    {"id":{"name":"Object465","path":"objects/Object465/Object465.yy",},},
     {"id":{"name":"sJetpackRight","path":"sprites/sJetpackRight/sJetpackRight.yy",},},
     {"id":{"name":"sJetpackLeft","path":"sprites/sJetpackLeft/sJetpackLeft.yy",},},
     {"id":{"name":"sJetpackBack","path":"sprites/sJetpackBack/sJetpackBack.yy",},},

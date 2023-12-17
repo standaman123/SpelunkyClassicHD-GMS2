@@ -598,7 +598,6 @@
     {"name":"sDeathMaskPickup","order":46,"path":"sprites/sDeathMaskPickup/sDeathMaskPickup.yy",},
     {"name":"sKapala","order":47,"path":"sprites/sKapala/sKapala.yy",},
     {"name":"sDeathMaskWear","order":48,"path":"sprites/sDeathMaskWear/sDeathMaskWear.yy",},
-    {"name":"Object465","order":97,"path":"objects/Object465/Object465.yy",},
     {"name":"sJetpackRight","order":49,"path":"sprites/sJetpackRight/sJetpackRight.yy",},
     {"name":"sJetpackLeft","order":50,"path":"sprites/sJetpackLeft/sJetpackLeft.yy",},
     {"name":"sJetpackBack","order":51,"path":"sprites/sJetpackBack/sJetpackBack.yy",},
